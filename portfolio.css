@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    
+}
+.profession{
+    color:orange;
+    font-size: 3rem;
+}
+@media (min-width:768px) {
+    .qsn-input{
+        max-width: 70%;
+    }
+}
+.img-in-card{
+    width: 10rem;
+    height: 15rem;
+    object-fit: cover;
+}
